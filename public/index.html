@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Master-Mind — Quiz da Wikipédia</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="app-header">
+      <h1>🧠 Master-Mind</h1>
+      <p class="subtitle">20 perguntas diárias geradas a partir da Wikipédia</p>
+      <nav class="tabs">
+        <button class="tab-btn active" data-tab="play">Jogar</button>
+        <button class="tab-btn" data-tab="stats">Estatísticas</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="tab-play" class="tab-panel active">
+        <div id="play-loading" class="state-box">
+          <div class="spinner"></div>
+          <p>A carregar as perguntas de hoje…</p>
+        </div>
+
+        <div id="play-error" class="state-box hidden">
+          <p class="error-text"></p>
+          <button id="retry-btn" class="btn">Tentar novamente</button>
+        </div>
+
+        <div id="already-played" class="state-box hidden">
+          <p>Já jogaste hoje! Volta amanhã para 20 novas perguntas.</p>
+          <p class="already-score"></p>
+          <button id="view-stats-from-played" class="btn">Ver estatísticas</button>
+        </div>
+
+        <div id="quiz-card" class="quiz-card hidden">
+          <div class="quiz-progress">
+            <span id="question-counter">Pergunta 1/20</span>
+            <span id="score-counter">Pontos: 0</span>
+          </div>
+          <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+
+          <p id="question-clue" class="clue"></p>
+
+          <div id="options" class="options"></div>
+
+          <button id="next-btn" class="btn hidden">Seguinte</button>
+        </div>
+
+        <div id="result-card" class="quiz-card hidden">
+          <h2>Resultado de hoje</h2>
+          <p id="result-score" class="result-score"></p>
+          <p id="result-message"></p>
+          <button id="go-to-stats-btn" class="btn">Ver estatísticas</button>
+        </div>
+      </section>
+
+      <section id="tab-stats" class="tab-panel">
+        <h2>Estatísticas por mês</h2>
+        <div id="stats-loading" class="state-box">
+          <div class="spinner"></div>
+          <p>A carregar estatísticas…</p>
+        </div>
+        <div id="stats-empty" class="state-box hidden">
+          <p>Ainda não há resultados guardados. Joga o quiz de hoje para começar!</p>
+        </div>
+        <div id="stats-list" class="stats-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
