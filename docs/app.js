@@ -75,7 +75,12 @@
   const OPTIONS_PER_QUESTION = 4;
   const MIN_EXTRACT_LENGTH = 80;
   const MAX_FETCH_ATTEMPTS = 200;
-  const FETCH_BATCH_SIZE = 8;
+  const FETCH_BATCH_SIZE = 5;
+  const BATCH_DELAY_MS = 300;
+
+  function sleep(ms) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+  }
 
   function escapeRegExp(text) {
     return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -107,9 +112,13 @@
   async function fetchRandomSummary() {
     try {
       const res = await fetch(RANDOM_SUMMARY_URL, { headers: { Accept: 'application/json' } });
-      if (!res.ok) return null;
+      if (!res.ok) {
+        console.warn(`Wikipédia devolveu estado inesperado: ${res.status}`);
+        return null;
+      }
       return await res.json();
     } catch (err) {
+      console.warn(`Pedido à Wikipédia falhou: ${err.message}`);
       return null;
     }
   }
@@ -155,6 +164,10 @@
         if (seenTitles.has(article.title)) continue;
         seenTitles.add(article.title);
         pool.push({ title: article.title, extract: article.extract });
+      }
+
+      if (pool.length < poolSize && attempts < MAX_FETCH_ATTEMPTS) {
+        await sleep(BATCH_DELAY_MS);
       }
     }
     return pool;
