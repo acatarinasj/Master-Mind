@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "clue": "Este/Esta elemento é um filme estadunidense de 1944, do gênero comédia musical, dirigido por John H. Auer e estrelado por Anne Shirley e Dennis Day.",
+    "options": [
+      "Music in Manhattan",
+      "Rio Almonda",
+      "Lista de países da África por Índice de Desenvolvimento Humano",
+      "Handroanthus impetiginosus"
+    ],
+    "correctAnswer": "Music in Manhattan"
+  },
+  {
+    "id": 2,
+    "clue": "Este/Esta elemento Company é um filme estadunidense-tcheco de 2002, do gênero ação, aventura e comédia, dirigido por Joel Schumacher, produzido por Jerry Bruckheimer e distribuído pela Touchstone Pictures. O filme é estrelado por Anthony Hopkins e Chris Rock.",
+    "options": [
+      "Champ-du-Boult",
+      "Bombardeio de Podgorica na Segunda Guerra Mundial",
+      "Bad Company (2002)",
+      "Alexandre Guy Pingré"
+    ],
+    "correctAnswer": "Bad Company (2002)"
+  },
+  {
+    "id": 3,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa da Nova Aquitânia, no departamento de Charente. Estende-se por uma área de 24,75 km². Em 2010 a comuna tinha 245 habitantes.",
+    "options": [
+      "Custom Robo V2",
+      "Bombardeio de Podgorica na Segunda Guerra Mundial",
+      "Nonglard",
+      "Hiesse"
+    ],
+    "correctAnswer": "Hiesse"
+  },
+  {
+    "id": 4,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa de Borgonha-Franco-Condado, no departamento de Yonne. Estende-se por uma área de 54,8 km². Em 2010 a comuna tinha 241 habitantes.",
+    "options": [
+      "Museu do Estado do Pará",
+      "Telgruc-sur-Mer",
+      "Luis Alberto Romero Alconchel",
+      "Cruzy-le-Châtel"
+    ],
+    "correctAnswer": "Cruzy-le-Châtel"
+  },
+  {
+    "id": 5,
+    "clue": "Este/Esta elemento Robert Garbowski é um político da Polónia. Ele foi eleito para a Sejm em 25 de Setembro de 2005 com 7517 votos em 21 no distrito de Opole, candidato pelas listas do partido Sojusz Lewicy Demokratycznej.",
+    "options": [
+      "Beaurepaire-sur-Sambre",
+      "Automeris ecuata",
+      "Vazamentos de óleo no Campo de Frade em 2011 e 2012",
+      "Tomasz Garbowski"
+    ],
+    "correctAnswer": "Tomasz Garbowski"
+  },
+  {
+    "id": 6,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa do Grande Leste, no departamento de Marne. Estende-se por uma área de 13.69 km², e possui 119 habitantes, segundo o censo de 2018, com uma densidade de 8.7 hab/km².",
+    "options": [
+      "Telgruc-sur-Mer",
+      "Beaurepaire-sur-Sambre",
+      "Handroanthus impetiginosus",
+      "Saint-Mard-sur-le-Mont"
+    ],
+    "correctAnswer": "Saint-Mard-sur-le-Mont"
+  },
+  {
+    "id": 7,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa de Altos da França, no departamento do Norte. Estende-se por uma área de 7.86 km². Em 2010 a comuna tinha 265 habitantes.",
+    "options": [
+      "Beaurepaire-sur-Sambre",
+      "Telgruc-sur-Mer",
+      "Konyaspor",
+      "Nonglard"
+    ],
+    "correctAnswer": "Beaurepaire-sur-Sambre"
+  },
+  {
+    "id": 8,
+    "clue": "Este/Esta elemento, comumente conhecida como ipê-roxo, é uma árvore da América do Sul, conhecida pela utilização medicinal e como madeira de lei.",
+    "options": [
+      "Saint-Mard-sur-le-Mont",
+      "Richard Avedon",
+      "Handroanthus impetiginosus",
+      "Cruzy-le-Châtel"
+    ],
+    "correctAnswer": "Handroanthus impetiginosus"
+  },
+  {
+    "id": 9,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa de Auvérnia-Ródano-Alpes, no departamento de Alta Saboia. Estende-se por uma área de km², com 471 habitantes, segundo os censos de 1999.",
+    "options": [
+      "Mirella Santos (modelo)",
+      "Francisco Rolão Preto",
+      "Rio Almonda",
+      "Nonglard"
+    ],
+    "correctAnswer": "Nonglard"
+  },
+  {
+    "id": 10,
+    "clue": "O Este/Esta elemento Histórico do Estado do Pará, ou Este/Esta elemento, é um Este/Esta elemento governamental brasileiro criado em 1981, atualmente sediado no Palácio Lauro Sodré no bairro da Cidade-Velha da cidade brasileira de Belém, que abriga exposições variadas de artistas contemporâneos.",
+    "options": [
+      "Cruzy-le-Châtel",
+      "Miltonia cuneata",
+      "Enochrus morenae",
+      "Museu do Estado do Pará"
+    ],
+    "correctAnswer": "Museu do Estado do Pará"
+  },
+  {
+    "id": 11,
+    "clue": "Este/Esta elemento foi um jogo de ação pra Nintendo 64 produzido em 2000 pela Noise e lançado somente no Japão. Ele foi o segundo jogo da série Este/Esta elemento Robo que assim como o primeiro também é um jogo que mistura lutas com rpg. Ele lembra bastante a jogos como Digimon e Beyblade.",
+    "options": [
+      "Anoplolepis rufescens",
+      "Bad Company (2002)",
+      "Custom Robo V2",
+      "Vazamentos de óleo no Campo de Frade em 2011 e 2012"
+    ],
+    "correctAnswer": "Custom Robo V2"
+  },
+  {
+    "id": 12,
+    "clue": "O Este/Esta elemento foi realizado pelos Aliados de 1943 a 1944 a pedido dos Partidários Iugoslavos.",
+    "options": [
+      "Bombardeio de Podgorica na Segunda Guerra Mundial",
+      "Acalles",
+      "Miltonia cuneata",
+      "Tomasz Garbowski"
+    ],
+    "correctAnswer": "Bombardeio de Podgorica na Segunda Guerra Mundial"
+  },
+  {
+    "id": 13,
+    "clue": "Este/Esta elemento é uma espécie de formiga do gênero Este/Esta elemento, pertencente à subfamília Formicinae.",
+    "options": [
+      "Sugador-cauda-de-fogo",
+      "Hiesse",
+      "Newham",
+      "Anoplolepis rufescens"
+    ],
+    "correctAnswer": "Anoplolepis rufescens"
+  },
+  {
+    "id": 14,
+    "clue": "Este/Esta elemento é uma ex-comuna francesa na região administrativa da Normandia, no departamento de Calvados. Estendeu-se por uma área de 13,94 km². Em 2010 a comuna tinha 383 habitantes.",
+    "options": [
+      "Lista de prêmios e indicações de Jennette McCurdy",
+      "Enochrus morenae",
+      "Champ-du-Boult",
+      "Custom Robo V2"
+    ],
+    "correctAnswer": "Champ-du-Boult"
+  },
+  {
+    "id": 15,
+    "clue": "Em novembro de 2011, um vazamento de cerca de 3,7 mil barris de óleo ocorreu no Campo de Frade durante perfuração de um poço de responsabilidade da petrolífera Chevron.",
+    "options": [
+      "Miltonia cuneata",
+      "Palacete Bento Carlos de Arruda Botelho",
+      "Vazamentos de óleo no Campo de Frade em 2011 e 2012",
+      "Automeris ecuata"
+    ],
+    "correctAnswer": "Vazamentos de óleo no Campo de Frade em 2011 e 2012"
+  },
+  {
+    "id": 16,
+    "clue": "André Moreira Neles, mais conhecido como Este/Esta elemento, foi um futebolista brasileiro que jogava como atacante.",
+    "options": [
+      "Miltonia cuneata",
+      "Beaurepaire-sur-Sambre",
+      "André Neles",
+      "Newham"
+    ],
+    "correctAnswer": "André Neles"
+  },
+  {
+    "id": 17,
+    "clue": "Este/Esta elemento é uma espécie de insetos coleópteros polífagos pertencente à família Hydrophilidae.",
+    "options": [
+      "Enochrus morenae",
+      "Calyptomyrmex arnoldi",
+      "Sugador-cauda-de-fogo",
+      "Saint-Mard-sur-le-Mont"
+    ],
+    "correctAnswer": "Enochrus morenae"
+  },
+  {
+    "id": 18,
+    "clue": "O Este/Esta elemento está localizado à Rua Treze de Maio, n° 2056, na cidade de São Carlos. Consta da lista de bens de interesse histórico publicada em 2021 pela Fundação Pró-Memória de São Carlos (FPMSC).",
+    "options": [
+      "Telgruc-sur-Mer",
+      "Lista de países da África por Índice de Desenvolvimento Humano",
+      "Palacete Bento Carlos de Arruda Botelho",
+      "Automeris ecuata"
+    ],
+    "correctAnswer": "Palacete Bento Carlos de Arruda Botelho"
+  },
+  {
+    "id": 19,
+    "clue": "Este/Esta elemento, mais conhecido apenas como Este/Esta elemento Alberto é um futebolista espanhol que atua como meio-campo. Atualmente está no Al-Duhail, do Catar.",
+    "options": [
+      "Nonglard",
+      "Automeris ecuata",
+      "Luis Alberto Romero Alconchel",
+      "Museu do Estado do Pará"
+    ],
+    "correctAnswer": "Luis Alberto Romero Alconchel"
+  },
+  {
+    "id": 20,
+    "clue": "Este/Esta elemento é uma espécie de ave da família dos paradoxornitídeos (Paradoxornithidae). É a única espécie do género Myzornis. Pode ser encontrada nos seguintes países: Butão, China, Índia, Myanmar e Nepal. Os seus habitats naturais são: regiões subtropicais ou tropicais húmidas de alta altitude.",
+    "options": [
+      "Bad Company (2002)",
+      "Richard Avedon",
+      "Sugador-cauda-de-fogo",
+      "Automeris ecuata"
+    ],
+    "correctAnswer": "Sugador-cauda-de-fogo"
+  }
+]
