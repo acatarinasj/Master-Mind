@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa da Borgonha-Franco-Condado, no departamento de Côte-d'Or. Estende-se por uma área de 6,46 km². Em 2010 a comuna tinha 236 habitantes.",
+    "options": [
+      "Savigny-sous-Mâlain",
+      "Murucututu-de-barriga-amarela",
+      "Bicicleta elétrica",
+      "Agrostis arenosa"
+    ],
+    "correctAnswer": "Savigny-sous-Mâlain"
+  },
+  {
+    "id": 2,
+    "clue": "Este/Esta elemento ou Abominável Homem das Neves é uma criatura que supostamente vive na região dos Himalaias.",
+    "options": [
+      "Iéti",
+      "Olympia (Manet)",
+      "Murucututu-de-barriga-amarela",
+      "NGC 141"
+    ],
+    "correctAnswer": "Iéti"
+  },
+  {
+    "id": 3,
+    "clue": "O Este/Esta elemento é uma espécie de ave estrigiforme pertencente à família Strigidae.",
+    "options": [
+      "Mariquita-vermelha",
+      "Murucututu-de-barriga-amarela",
+      "Lodrino",
+      "O Comércio de Guimarães"
+    ],
+    "correctAnswer": "Murucututu-de-barriga-amarela"
+  },
+  {
+    "id": 4,
+    "clue": "Este/Esta elemento é uma galáxia espiral (S/P) localizada na direcção da constelação de Pisces. Possui uma declinação de +05° 10' 46\" e uma ascensão recta de 0 horas, 31 minutos e 17,6 segundos.",
+    "options": [
+      "Dieudonné Saive",
+      "NGC 141",
+      "Murucututu-de-barriga-amarela",
+      "Bicicleta elétrica"
+    ],
+    "correctAnswer": "NGC 141"
+  },
+  {
+    "id": 5,
+    "clue": "Este/Esta elemento é um gênero extinto de proboscídeos basais que viviam no que é agora o Norte de África durante o fim do Eoceno até o início do Oligoceno, de 37 a 30 milhões de anos atrás. Este/Esta elemento serridens significa \"animal de dente serrado de Faium\".",
+    "options": [
+      "Iéti",
+      "Valdeir Batista",
+      "Saint-Agnan-sur-Erre",
+      "Phiomia"
+    ],
+    "correctAnswer": "Phiomia"
+  },
+  {
+    "id": 6,
+    "clue": "Esta é a lista dos Este/Esta elemento, os Este/Esta elemento mais a norte, sul, leste e oeste do território romeno.",
+    "options": [
+      "Olympia (Manet)",
+      "Valdeir Batista",
+      "Pontos extremos da Romênia",
+      "Iéti"
+    ],
+    "correctAnswer": "Pontos extremos da Romênia"
+  },
+  {
+    "id": 7,
+    "clue": "A Este/Esta elemento é uma rodovia transversal do estado de São Paulo, administrada pelo Departamento de Estradas de Rodagem do Estado de São Paulo (DER-SP).",
+    "options": [
+      "SP-157",
+      "Distrito Federal dos Urais",
+      "Olympia (Manet)",
+      "Valdeir Batista"
+    ],
+    "correctAnswer": "SP-157"
+  },
+  {
+    "id": 8,
+    "clue": "Dieudonné Joseph Saive foi um inventor, armeiro e projetista de armas belga que projetou várias armas de fogo conhecidas para o fabricante de armas belga Fabrique Nationale d'Herstal, incluindo o \"SAFN 1949\" e o FAL.",
+    "options": [
+      "O Comércio de Guimarães",
+      "Pixel 4",
+      "Valdeir Batista",
+      "Dieudonné Saive"
+    ],
+    "correctAnswer": "Dieudonné Saive"
+  },
+  {
+    "id": 9,
+    "clue": "O Este/Esta elemento é um Este/Esta elemento da Federação Russa. A principal cidade é Ecaterimburgo.",
+    "options": [
+      "Lodrino",
+      "Distrito Federal dos Urais",
+      "Bicicleta elétrica",
+      "Lukáš Hrádecký"
+    ],
+    "correctAnswer": "Distrito Federal dos Urais"
+  },
+  {
+    "id": 10,
+    "clue": "Este/Esta elemento Polero é um futebolista uruguaio que atua como centroavante. Atualmente, joga pelo Newell's Old Boys.",
+    "options": [
+      "Juan Ignacio Ramírez",
+      "Football Manager Live",
+      "Sclerophrys regularis",
+      "Unrest"
+    ],
+    "correctAnswer": "Juan Ignacio Ramírez"
+  },
+  {
+    "id": 11,
+    "clue": "Este/Esta elemento é um filme-documentário estadunidense de 2017 dirigido e escrito por Jennifer Brea, que segue a história da diretora durante o tratamento da síndrome da fadiga crônica.",
+    "options": [
+      "Murucututu-de-barriga-amarela",
+      "Mariquita-vermelha",
+      "Lentella",
+      "Unrest"
+    ],
+    "correctAnswer": "Unrest"
+  },
+  {
+    "id": 12,
+    "clue": "Este/Esta elemento é uma pequena ave passeriforme da família Parulidae, endêmica às terras altas do México, ao norte do istmo de Tehuantepec. É mais próxima filogeneticamente da mariquita-de-cabeça-rosa, que habita o sul do México e a Guatemala, com quem forma uma superespécie.",
+    "options": [
+      "Mariquita-vermelha",
+      "Unrest",
+      "Leporinus trimaculatus",
+      "Émilienne Galicier"
+    ],
+    "correctAnswer": "Mariquita-vermelha"
+  },
+  {
+    "id": 13,
+    "clue": "Este/Esta elemento, conhecido popularmente como sapo-comum-africano, sapo-egípcio, sapo-africano-saltitante e sapo-de-reuss, é uma espécie de sapo da família Bufonidae. É amplamente encontrada na África Subsaariana, com sua distribuição estendendo-se aos oásis da Argélia e da Líbia, bem como ao norte do Egito Nilótico.",
+    "options": [
+      "Leia Organa",
+      "NGC 141",
+      "Sclerophrys regularis",
+      "Willemetia"
+    ],
+    "correctAnswer": "Sclerophrys regularis"
+  },
+  {
+    "id": 14,
+    "clue": "Uma Este/Esta elemento, e-bike ou pedelec é uma Este/Esta elemento motorizada com um motor elétrico integrado usado para auxiliar a propulsão, sendo possível encontrar bicicletas que auxiliam o pedalar do ciclista e bicicletas que adicionam um acelerador, integrando a funcionalidade de um ciclomotor.",
+    "options": [
+      "Iéti",
+      "Phiomia",
+      "Bicicleta elétrica",
+      "Lukáš Hrádecký"
+    ],
+    "correctAnswer": "Bicicleta elétrica"
+  },
+  {
+    "id": 15,
+    "clue": "Este/Esta elemento é uma comuna italiana da região da Lombardia, província de Bréscia, com cerca de 1.704 habitantes. Estende-se por uma área de 16 km², tendo uma densidade populacional de 107 hab/km². Faz fronteira com Casto, Marcheno, Marmentino, Pertica Alta, Tavernole sul Mella.",
+    "options": [
+      "Lodrino",
+      "Mariquita-vermelha",
+      "Agrostis arenosa",
+      "Lentella"
+    ],
+    "correctAnswer": "Lodrino"
+  },
+  {
+    "id": 16,
+    "clue": "Este/Esta elemento Oliveira é formada em Direito pela Universidade de Brasília (UnB), socioambientalista, ciclista, educadora do clima e mobilizadora de jovens brasileira.",
+    "options": [
+      "Paloma Costa",
+      "SP-157",
+      "Distrito Federal dos Urais",
+      "Lee Moon-sae"
+    ],
+    "correctAnswer": "Paloma Costa"
+  },
+  {
+    "id": 17,
+    "clue": "O cervo-de-bawean, também conhecido como cervo-porco-de-kuhl ou cervo-porco-de-bawean é uma espécie de cervídeo criticamente ameaçada de extinção, endêmica da ilha de Bawean, na Indonésia.",
+    "options": [
+      "Phiomia",
+      "Federico Balzaretti",
+      "Sclerophrys regularis",
+      "Hyelaphus kuhlii"
+    ],
+    "correctAnswer": "Hyelaphus kuhlii"
+  },
+  {
+    "id": 18,
+    "clue": "Émilienne Berthe Galicier foi uma política francesa. Ela foi eleita para a Assembleia Nacional em 1945 como uma do primeiro grupo de mulheres francesas no parlamento. Ela serviu na Assembleia Nacional até 1958.",
+    "options": [
+      "Hyelaphus kuhlii",
+      "Juan Ignacio Ramírez",
+      "Émilienne Galicier",
+      "Phiomia"
+    ],
+    "correctAnswer": "Émilienne Galicier"
+  },
+  {
+    "id": 19,
+    "clue": "Este/Esta elemento é um futebolista profissional checo que atua como goleiro. Atualmente está Sem Clube.",
+    "options": [
+      "Tomáš Vaclík",
+      "Sclerophrys regularis",
+      "Pixel 4",
+      "Juan José Saer"
+    ],
+    "correctAnswer": "Tomáš Vaclík"
+  },
+  {
+    "id": 20,
+    "clue": "Este/Esta elemento é um ex-futebolista italiano que atuava como lateral-esquerdo.",
+    "options": [
+      "Pixel 4",
+      "Federico Balzaretti",
+      "Sclerophrys regularis",
+      "Olympia (Manet)"
+    ],
+    "correctAnswer": "Federico Balzaretti"
+  }
+]
