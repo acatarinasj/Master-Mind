@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "clue": "A Este/Esta elemento, oficialmente Rodovia Álvaro Maia, mais conhecida como Rodovia Manaus–Porto Velho, é uma rodovia federal diagonal brasileira que se inicia no município de Manaus, capital do Amazonas, e finaliza em Porto Velho, capital de Rondônia.",
+    "options": [
+      "Maburaho",
+      "Kagoshima",
+      "Saint-Nolff",
+      "BR-319"
+    ],
+    "correctAnswer": "BR-319"
+  },
+  {
+    "id": 2,
+    "clue": "Este/Esta elemento participou dos Jogos Olímpicos de Inverno de 2022, realizados em Pequim, na China.",
+    "options": [
+      "Caneleiro-preto",
+      "Ulex densus",
+      "Ricardo Izar Jr.",
+      "Bélgica nos Jogos Olímpicos de Inverno de 2022"
+    ],
+    "correctAnswer": "Bélgica nos Jogos Olímpicos de Inverno de 2022"
+  },
+  {
+    "id": 3,
+    "clue": "Este/Esta elemento ou caneleiro-d'asa-branca é uma espécie de ave da família Tityridae.",
+    "options": [
+      "KV-1",
+      "Caneleiro-preto",
+      "Maburaho",
+      "Helianthemum hirtum"
+    ],
+    "correctAnswer": "Caneleiro-preto"
+  },
+  {
+    "id": 4,
+    "clue": "Este/Esta elemento é uma espécie de aranha pertencente à família Theraphosidae (tarântulas). Possui corpo bem negro e Patas bem longas.",
+    "options": [
+      "Aphonopelma iodius",
+      "Triceratopsini",
+      "Hibernação",
+      "Igreja Matriz de Nossa Senhora da Conceição (Sabará)"
+    ],
+    "correctAnswer": "Aphonopelma iodius"
+  },
+  {
+    "id": 5,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa da Occitânia, no departamento dos Pirenéus Orientais. Estende-se por uma área de 14.88 km², e possui 385 habitantes, segundo o censo de 2018, com uma densidade de 26 hab/km².",
+    "options": [
+      "União Platinense de Esportes",
+      "Hibernação",
+      "Sahorre",
+      "P-xileno"
+    ],
+    "correctAnswer": "Sahorre"
+  },
+  {
+    "id": 6,
+    "clue": "A expressão Este/Esta elemento abrange uma vasta gama de comportamentos que vão desde agressões verbais até abuso sexual e agressão sexual. O Este/Esta elemento pode ocorrer em diferentes lugares, como no trabalho, em casa, na escola, na igreja etc.",
+    "options": [
+      "Assédio sexual",
+      "Sinsheim",
+      "Município de Green (condado de Clinton, Ohio)",
+      "Banco HSBC (Brasil)"
+    ],
+    "correctAnswer": "Assédio sexual"
+  },
+  {
+    "id": 7,
+    "clue": "Este/Esta elemento é uma comuna francesa na região administrativa da Bretanha, no departamento Morbihan. Estende-se por uma área de 31,21 km². Em 2010 a comuna tinha 2 803 habitantes.",
+    "options": [
+      "Plumelin",
+      "Banco HSBC (Brasil)",
+      "P-xileno",
+      "Cooper Andrews"
+    ],
+    "correctAnswer": "Plumelin"
+  },
+  {
+    "id": 8,
+    "clue": "Este/Esta elemento é uma psicóloga e ex-atriz brasileira. Em 2012 deixou de atuar para dedicar-se à carreira na psicologia.",
+    "options": [
+      "Direito público",
+      "Schluderns",
+      "Cecília Dassi",
+      "Município de Green (condado de Clinton, Ohio)"
+    ],
+    "correctAnswer": "Cecília Dassi"
+  },
+  {
+    "id": 9,
+    "clue": "O Kliment Voroshilov 1, foi um blindado da série de carros de combate pesados Kliment Voroshilov, desenvolvidos durante a Segunda Guerra Mundial pela União Soviética, e utilizado pelo Exército Vermelho.",
+    "options": [
+      "KV-1",
+      "Município de Green (condado de Clinton, Ohio)",
+      "Ryuchell",
+      "João Lobo"
+    ],
+    "correctAnswer": "KV-1"
+  },
+  {
+    "id": 10,
+    "clue": "Este/Esta elemento é uma espécie do gênero Este/Esta elemento da família de plantas Acanthaceae. A espécie é encontrada no oeste e no sudeste da Africa. Na Etiópia, Este/Esta elemento é encontrada na floresta de Sheka. A planta é utilizada para alimentar as cabras.",
+    "options": [
+      "Helianthemum hirtum",
+      "Acanthopale pubescens",
+      "Ulex densus",
+      "Réau"
+    ],
+    "correctAnswer": "Acanthopale pubescens"
+  },
+  {
+    "id": 11,
+    "clue": "Ryuji Higa, popular pelo nome Este/Esta elemento, foi uma personalidade japonesa de televisão e redes sociais, modelo, cancionista e ativista.",
+    "options": [
+      "Ryuchell",
+      "Ulex densus",
+      "Aphonopelma iodius",
+      "BR-319"
+    ],
+    "correctAnswer": "Ryuchell"
+  },
+  {
+    "id": 12,
+    "clue": "Este/Esta elemento, também denominada trissomia 21 ou trissomia do cromossomo 21, é uma alteração genética causada pela presença integral ou parcial de uma terceira cópia do cromossoma 21.",
+    "options": [
+      "Banco HSBC (Brasil)",
+      "Síndrome de Down",
+      "Kagoshima",
+      "Sinsheim"
+    ],
+    "correctAnswer": "Síndrome de Down"
+  },
+  {
+    "id": 13,
+    "clue": "Este/Esta elemento é uma tribo de dinossauros casmossauríneos herbívoros que viveram entre o final do Campaniano e o final do Maastrichtiano do período Cretáceo, entre 74,73 e 66 milhões de anos atrás.",
+    "options": [
+      "Triceratopsini",
+      "BR-319",
+      "Ricardo Izar Jr.",
+      "Cecília Dassi"
+    ],
+    "correctAnswer": "Triceratopsini"
+  },
+  {
+    "id": 14,
+    "clue": "A Este/Esta elemento foi um clube de futebol brasileiro da cidade de Santo Antônio da Platina, no estado do Paraná. Suas cores eram vermelho e branco.",
+    "options": [
+      "Bélgica nos Jogos Olímpicos de Inverno de 2022",
+      "Réau",
+      "União Platinense de Esportes",
+      "Cooper Andrews"
+    ],
+    "correctAnswer": "União Platinense de Esportes"
+  },
+  {
+    "id": 15,
+    "clue": "Este/Esta elemento foi um líder político africano, um dos fundadores do Pan-Africanismo. Foi primeiro-ministro entre 1957 e 1960 e presidente de Gana de 1960 a 1966.",
+    "options": [
+      "União Platinense de Esportes",
+      "Síndrome de Down",
+      "The One I Gave My Heart To",
+      "Kwame Nkrumah"
+    ],
+    "correctAnswer": "Kwame Nkrumah"
+  },
+  {
+    "id": 16,
+    "clue": "Este/Esta elemento (まぶらほ) é uma série de anime e mangá. A série de anime tem um 24 episódios, o mangá foi publicado em dois volumes, além de uma série de trinta volumes de light novels.",
+    "options": [
+      "Réau",
+      "Maburaho",
+      "Plumelin",
+      "Acanthopale pubescens"
+    ],
+    "correctAnswer": "Maburaho"
+  },
+  {
+    "id": 17,
+    "clue": "Este/Esta elemento é uma prefeitura do Japão, localizada no sul da ilha de Kyushu e incluindo parte das Ilhas Ryūkyū. A capital é a cidade de Este/Esta elemento.",
+    "options": [
+      "Banco HSBC (Brasil)",
+      "Schluderns",
+      "Kagoshima",
+      "João Lobo"
+    ],
+    "correctAnswer": "Kagoshima"
+  },
+  {
+    "id": 18,
+    "clue": "O Este/Esta elemento é o conjunto das normas jurídicas de natureza pública, compreendendo tanto o conjunto de normas jurídicas que regulam a relação entre o particular e o Estado, como o conjunto de normas jurídicas que regulam as atividades, as funções e organizações de poderes do Estado e dos seus servidores.",
+    "options": [
+      "Direito público",
+      "KV-1",
+      "Ricardo Izar Jr.",
+      "Maburaho"
+    ],
+    "correctAnswer": "Direito público"
+  },
+  {
+    "id": 19,
+    "clue": "O choró-boi é uma ave passeriforme da família Thamnophilidae. É a única espécie pertencente ao gênero Este/Esta elemento.",
+    "options": [
+      "Sahorre",
+      "Taraba major",
+      "Acanthopale pubescens",
+      "Assédio sexual"
+    ],
+    "correctAnswer": "Taraba major"
+  },
+  {
+    "id": 20,
+    "clue": "Este/Esta elemento é uma comuna italiana da região do Trentino-Alto Ádige, província de Bolzano, com cerca de 1.853 habitantes. Estende-se por uma área de 20 km², tendo uma densidade populacional de 93 hab/km². Faz divisa com Glurns, Laas, Mals, Prad am Stilfserjoch.",
+    "options": [
+      "Ryuchell",
+      "Schluderns",
+      "The One I Gave My Heart To",
+      "KV-1"
+    ],
+    "correctAnswer": "Schluderns"
+  }
+]
