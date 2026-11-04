@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "clue": "Este/Esta elemento, é um lutador profissional de wrestling estadunidense que trabalha para a All Elite Wrestling (AEW) e faz parte do grupo The Hurt Syndicate. Ele é mais conhecido por seus períodos na WWE, primeiro de 2000 a 2010, e depois novamente de 2017 a 2023.",
+    "options": [
+      "Allen Knutson",
+      "Destroços de Anticítera",
+      "São Gonçalo dos Campos",
+      "Shelton Benjamin"
+    ],
+    "correctAnswer": "Shelton Benjamin"
+  },
+  {
+    "id": 2,
+    "clue": "Este/Esta elemento foi um pintor, escultor, gravador, fotógrafo e artista plástico nascido na Polônia e naturalizado brasileiro.",
+    "options": [
+      "Hans-Joachim Hartnick",
+      "Frans Krajcberg",
+      "Allen Knutson",
+      "MyAnna Buring"
+    ],
+    "correctAnswer": "Frans Krajcberg"
+  },
+  {
+    "id": 3,
+    "clue": "Este/Esta elemento é um município da Espanha na província de Almería, comunidade autónoma da Andaluzia, de área 15,58 km² com população de 141 habitantes (2009) e densidade populacional de 9,4 hab/km².",
+    "options": [
+      "São Gonçalo dos Campos",
+      "Rhinorex",
+      "Alcudia de Monteagud",
+      "Montecassiano"
+    ],
+    "correctAnswer": "Alcudia de Monteagud"
+  },
+  {
+    "id": 4,
+    "clue": "Este/Esta elemento Jerome Gould é um ator e dublador norte-americano. Fez a voz do personagem Nemo em Procurando Nemo e estrelou em séries de televisão e filmes.",
+    "options": [
+      "Alexander Gould",
+      "Hans-Joachim Hartnick",
+      "Argens-Minervois",
+      "MyAnna Buring"
+    ],
+    "correctAnswer": "Alexander Gould"
+  },
+  {
+    "id": 5,
+    "clue": "Este/Esta elemento é uma ativista ambiental americana. Ela foi cofundadora e atua como diretora co-executiva da Greve Global pelo Clima nos Estados Unidos. Em 2019, ganhou o prêmio Brower Youth Award pelo seu ativismo climático.",
+    "options": [
+      "Montecassiano",
+      "Immortality (jogo eletrônico)",
+      "Krajné",
+      "Isra Hirsi"
+    ],
+    "correctAnswer": "Isra Hirsi"
+  },
+  {
+    "id": 6,
+    "clue": "Este/Esta elemento é um município da Eslováquia, situado no distrito de Myjava, na região de Trenčín. Tem 28,47 km² de área e sua população em 2018 foi estimada em 1.507 habitantes.",
+    "options": [
+      "Lindenius pygmaeus",
+      "Krajné",
+      "Allen Knutson",
+      "Frans Krajcberg"
+    ],
+    "correctAnswer": "Krajné"
+  },
+  {
+    "id": 7,
+    "clue": "Este/Esta elemento é uma comuna italiana da região dos Marche, província de Macerata, com cerca de 6.578 habitantes. Estende-se por uma área de 32,99 km², tendo uma densidade populacional de 206 hab/km². Faz fronteira com Appignano, Macerata, Montefano, Recanati.",
+    "options": [
+      "Thouarcé",
+      "Hans-Joachim Hartnick",
+      "Destroços de Anticítera",
+      "Montecassiano"
+    ],
+    "correctAnswer": "Montecassiano"
+  },
+  {
+    "id": 8,
+    "clue": "Este/Esta elemento é uma cantora brasilo-japonesa. De ascendência nipônica, mudou-se com a família para Tóquio aos 10 anos de idade. A partir dessa época, ela passava metade de cada ano no Japão e metade no Rio de Janeiro.",
+    "options": [
+      "1.º Batalhão da Polícia Militar de Cuiabá",
+      "Lisa Ono",
+      "São Gonçalo dos Campos",
+      "Ecchi"
+    ],
+    "correctAnswer": "Lisa Ono"
+  },
+  {
+    "id": 9,
+    "clue": "Este/Esta elemento é um ator e modelo brasileiro. Ficou conhecido pelos personagens nas novelas Insensato Coração, Cheias de Charme e Amor à Vida.",
+    "options": [
+      "1.º Batalhão da Polícia Militar de Cuiabá",
+      "Ricardo Tozzi",
+      "Lisa Ono",
+      "Immortality (jogo eletrônico)"
+    ],
+    "correctAnswer": "Ricardo Tozzi"
+  },
+  {
+    "id": 10,
+    "clue": "O 1° Batalhão da Polícia Militar de Cuiabá (1°BPM) é uma unidade militar subordinada a Polícia Militar do Estado de Mato Grosso. É a primeira força policial de grande porte instalada no estado. Foi originalmente criada nos tempos do Império do Brasil em 5 de setembro de 1835 sob o nome \"Homens do Mato\".",
+    "options": [
+      "Moleiro-de-cauda-comprida",
+      "Frans Krajcberg",
+      "1.º Batalhão da Polícia Militar de Cuiabá",
+      "Isra Hirsi"
+    ],
+    "correctAnswer": "1.º Batalhão da Polícia Militar de Cuiabá"
+  },
+  {
+    "id": 11,
+    "clue": "Este/Esta elemento é um gênero de dinossauro da família Hadrosauridae do Cretáceo Superior dos Estados Unidos. Há uma única espécie descrita para o gênero Este/Esta elemento condrupus. Seus restos fósseis foram encontrados na formação Neslen no estado do Utah, e foram datados com cerca de 75 milhões de anos.",
+    "options": [
+      "Ecchi",
+      "Farinha de mandioca",
+      "Sauveterre-Saint-Denis",
+      "Rhinorex"
+    ],
+    "correctAnswer": "Rhinorex"
+  },
+  {
+    "id": 12,
+    "clue": "Este/Esta elemento é uma estrela na constelação de Volans. Tem uma magnitude aparente visual de 5,29, o que significa que é visível a olho nu em boas condições de visualização. De acordo com sua paralaxe, está localizada a 375 anos-luz (115 parsecs) da Terra.",
+    "options": [
+      "East Germantown",
+      "Eta Volantis",
+      "Thouarcé",
+      "MyAnna Buring"
+    ],
+    "correctAnswer": "Eta Volantis"
+  },
+  {
+    "id": 13,
+    "clue": "O Este/Esta elemento ou mandrião-de-cauda-comprida é uma ave marinha pertencente à família Stercorariidae. É um pouco mais pequeno que os restantes moleiros, distinguindo-se, em plumagem nupcial, pela longa cauda.",
+    "options": [
+      "Vampyriscus nymphaea",
+      "Lindenius pygmaeus",
+      "NGC 4636",
+      "Moleiro-de-cauda-comprida"
+    ],
+    "correctAnswer": "Moleiro-de-cauda-comprida"
+  },
+  {
+    "id": 14,
+    "clue": "Esta é uma Este/Esta elemento de subúrbios e localidades da área da grande Sydney em ordem alfabética. Sydney tem cerca de 38 áreas de governo local, cada uma composta por vários subúrbios. Veja a tabela abaixo, Categoria:Subúrbios de Sydney e Categoria:Áreas de governo local de Sydney.",
+    "options": [
+      "Hermes Lima",
+      "Moleiro-de-cauda-comprida",
+      "Argens-Minervois",
+      "Lista de subúrbios de Sydney"
+    ],
+    "correctAnswer": "Lista de subúrbios de Sydney"
+  },
+  {
+    "id": 15,
+    "clue": "Este/Esta elemento é um termo japonês que se refere a relação sexual ou amostra de muita sensualidade.",
+    "options": [
+      "Ecchi",
+      "1.º Batalhão da Polícia Militar de Cuiabá",
+      "Hans-Joachim Hartnick",
+      "Diano San Pietro"
+    ],
+    "correctAnswer": "Ecchi"
+  },
+  {
+    "id": 16,
+    "clue": "Os Este/Esta elemento é um antigo naufrágio romano datado da segunda metade do século I a.C. localizado ao sul da Grécia, na costa da ilha de Anticítera. Os Este/Esta elemento foram descoberto por pescadores de esponjas na borda do Mar Egeu, em 1900.",
+    "options": [
+      "Rhinorex",
+      "Destroços de Anticítera",
+      "Hans-Joachim Hartnick",
+      "Immortality (jogo eletrônico)"
+    ],
+    "correctAnswer": "Destroços de Anticítera"
+  },
+  {
+    "id": 17,
+    "clue": "Este/Esta elemento foi um oficial da Marinha dos Estados Unidos e um aviador naval. Ele subiu ao posto de capitão e recebeu a Medalha de Honra por suas ações na tentativa de salvar a vida de seu ala, o alferes Jesse L. Brown, durante a Batalha do Reservatório de Chosin na Guerra da Coreia.",
+    "options": [
+      "Argens-Minervois",
+      "Ecchi",
+      "Hans-Joachim Hartnick",
+      "Thomas Jerome Hudner Jr."
+    ],
+    "correctAnswer": "Thomas Jerome Hudner Jr."
+  },
+  {
+    "id": 18,
+    "clue": "A Este/Esta elemento é uma rodovia radial do estado de São Paulo, administrada pela concessionária SPVias.",
+    "options": [
+      "East Germantown",
+      "SP-258",
+      "Rhinorex",
+      "Alexander Gould"
+    ],
+    "correctAnswer": "SP-258"
+  },
+  {
+    "id": 19,
+    "clue": "Este/Esta elemento é uma estrela na constelação de Scorpius. Tem uma magnitude aparente visual de 8,12, portanto não é visível a olho nu. Com base em sua paralaxe medida pela sonda Gaia, está localizada a aproximadamente 176 anos-luz (53,8 parsecs) da Terra.",
+    "options": [
+      "Thomas Jerome Hudner Jr.",
+      "Papa Pio II",
+      "Moleiro-de-cauda-comprida",
+      "HD 145377"
+    ],
+    "correctAnswer": "HD 145377"
+  },
+  {
+    "id": 20,
+    "clue": "Este/Esta elemento é um ex-ciclista alemão. Terminou em segundo lugar na competição Volta à Polónia de 1975.",
+    "options": [
+      "Destroços de Anticítera",
+      "Lisa Ono",
+      "Farinha de mandioca",
+      "Hans-Joachim Hartnick"
+    ],
+    "correctAnswer": "Hans-Joachim Hartnick"
+  }
+]
